@@ -1,0 +1,25 @@
+body {
+  color: rgba(0, 0, 0, 0.644);
+  background: rgba(70, 235, 5, 0.829);
+  margin: 0px;
+  font-family: "BBH Sans Bogle", sans-serif;
+}
+
+header {
+  border-bottom: solid 2px color rgba(0, 37, 250, 0.993);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(0, 181, 253);
+}
+
+section {
+  background: rgb(0, 47, 255);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+}
